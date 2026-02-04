@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npx tsx script/build-vercel.ts",
+  "outputDirectory": "dist/public",
+  "framework": null,
+  "installCommand": "npm install"
+}
